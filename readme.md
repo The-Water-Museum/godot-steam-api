@@ -4,4 +4,6 @@
 
 At times, specific improvements and features from our internal forks may be backported to their sources. Thus, we strongly recommend using the original upstream repository for your projects.
 
-addons/steam_api/readme.md
+# Plugin Documentation
+
+View detailed documentation about this plugin [here](addons/steam_api/readme.md).
